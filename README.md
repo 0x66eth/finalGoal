@@ -81,6 +81,7 @@
 #### [Popstar](https://github.com/popstar7)
 #### [BlackGhost](https://github.com/blackghost2693)
 #### [Sasaki](https://github.com/Johnhvy)
+#### [Ignacio](https://github.com/ignacioshine)
 #### [Grassman](https://github.com/grasshousedev)
 #### [Storm](https://github.com/felipedev418)
 #### [Shiny7star](https://github.com/shiny7star)
